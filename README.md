@@ -21,6 +21,6 @@ Train neural network models to identify bird species from audio recordings using
 
 ## Results:
 
-* Binary classification model achieved 95% test accuracy in distinguishing between ‘amecro’ and ‘barswa’ species.
+* Binary classification model achieved over 95% test accuracy in distinguishing between ‘amecro’ and ‘barswa’ species.
 * Multi-class classification model exhibited accuracy of 67.24%, indicating the complexity of multi-species identification.
 * Identified the need for model and dataset improvements to enhance multi-species classification performance.
